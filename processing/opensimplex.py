@@ -1,3 +1,9 @@
+# Because we are running processing-py which uses Jython, using third-party
+# libraries is kind of hard. Due to that I managed to get this awesome
+# implementation of OpenSimplex written in Python.
+# https://github.com/lmas/opensimplex
+# https://pypi.org/project/opensimplex/
+
 # Based on: https://gist.github.com/KdotJPG/b1270127455a94ac5d19
 
 import sys
